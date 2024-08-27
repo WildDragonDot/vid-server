@@ -16,5 +16,5 @@ https://yutudownloader.up.railway.app/
 
 ## Authors
 
-- [@4ndresdev](https://www.github.com/4ndresdev)
+- [@wilddragondot(https://www.github.com/wilddragondot)
 # vid-server
